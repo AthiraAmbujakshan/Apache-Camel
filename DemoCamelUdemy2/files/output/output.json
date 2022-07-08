@@ -1,0 +1,21 @@
+{
+"ID":"1001",
+"PAYEE_NAME":"USD",
+ "EXTERNAL_ID":"INR",
+ "SETTLEMENT_ACCOUNT":"70",
+ "ACTIVE":"null"
+},
+{
+"ID":"1002",
+"PAYEE_NAME":"EUR",
+ "EXTERNAL_ID":"INR",
+ "SETTLEMENT_ACCOUNT":"80",
+ "ACTIVE":"null"
+},
+{
+"ID":"1003",
+"PAYEE_NAME":"AUD",
+ "EXTERNAL_ID":"INR",
+ "SETTLEMENT_ACCOUNT":"10",
+ "ACTIVE":"null"
+}

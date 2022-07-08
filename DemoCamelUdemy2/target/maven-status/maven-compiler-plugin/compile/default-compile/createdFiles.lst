@@ -1,0 +1,7 @@
+com\example\demo\DemoApplication.class
+com\example\demo\Router\LoggerProcessor.class
+com\example\demo\Router\CopyFilesRouter.class
+com\example\demo\Router\GetCurrentTimeBean.class
+com\example\demo\Router\ActiveMQSendRouter.class
+com\example\demo\Router\MyFirstTimerRouter.class
+com\example\demo\Router\SimpleLoggingProcessingComponent.class
